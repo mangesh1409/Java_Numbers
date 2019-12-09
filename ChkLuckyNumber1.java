@@ -4,7 +4,7 @@ class Number
 {
 	public boolean ChkLucky(int iNo)
 	{
-		int idigit=0, i=0;
+		int idigit=0;
 		int arr[]={0,0,0,0,0,0,0,0,0,0};
 		
 		if(iNo<0)
